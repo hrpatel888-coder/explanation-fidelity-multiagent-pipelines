@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper."
+type: software
+title: "Explanation fidelity in sequential multi-agent pipelines: code and data"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+authors:
+  - family-names: Patil
+    given-names: Harsha V.
+    affiliation: "MAEER's MIT Arts, Commerce and Science College, Alandi (D), Pune, India"
+  - family-names: Rathi
+    given-names: Kanchan G.
+  - family-names: Gandhi
+    given-names: Geeta Chhabra
+preferred-citation:
+  type: article
+  title: "Explanation Fidelity Degradation in Sequential Multi-Agent AI Pipelines: A Synthetic Benchmark and Quantitative Framework for Cross-Hop Information Loss"
+  authors:
+    - family-names: Patil
+      given-names: Harsha V.
+    - family-names: Rathi
+      given-names: Kanchan G.
+    - family-names: Gandhi
+      given-names: Geeta Chhabra

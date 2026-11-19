@@ -1,0 +1,38 @@
+{
+  "as published (sparse input, discrete MI)": {
+    "signal_words_kept_of_60": 6,
+    "noise_tokens_kept_of_60": 54,
+    "fidelity_hop1": 0.5947222222222223,
+    "fidelity_hop2": 0.20174074074074075,
+    "fidelity_hop3": 0.09028571428571427,
+    "fidelity_baseline": 0.7969444444444445,
+    "faithfulness_chained": 0.23980991627367415,
+    "faithfulness_baseline": 0.6840814630713673,
+    "accuracy_chained": 0.62,
+    "accuracy_baseline": 1.0
+  },
+  "continuous MI (dense input, discrete_features=False)": {
+    "signal_words_kept_of_60": 60,
+    "noise_tokens_kept_of_60": 0,
+    "fidelity_hop1": 0.5947222222222223,
+    "fidelity_hop2": 0.8726031746031746,
+    "fidelity_hop3": 0.8636084656084656,
+    "fidelity_baseline": 0.7969444444444445,
+    "faithfulness_chained": 0.689169762127127,
+    "faithfulness_baseline": 0.6840814630713673,
+    "accuracy_chained": 1.0,
+    "accuracy_baseline": 1.0
+  },
+  "chi-squared": {
+    "signal_words_kept_of_60": 60,
+    "noise_tokens_kept_of_60": 0,
+    "fidelity_hop1": 0.5947222222222223,
+    "fidelity_hop2": 0.8726031746031746,
+    "fidelity_hop3": 0.8636084656084656,
+    "fidelity_baseline": 0.7969444444444445,
+    "faithfulness_chained": 0.689169762127127,
+    "faithfulness_baseline": 0.6840814630713673,
+    "accuracy_chained": 1.0,
+    "accuracy_baseline": 1.0
+  }
+}
